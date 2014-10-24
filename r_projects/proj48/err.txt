@@ -1,0 +1,6 @@
+/home/bimbim/.rvm/rubies/ruby-2.1.2/bin/ruby -I"lib:tests" -I"/home/bimbim/.rvm/gems/ruby-2.1.2/gems/rake-10.3.2/lib" "/home/bimbim/.rvm/gems/ruby-2.1.2/gems/rake-10.3.2/lib/rake/rake_test_loader.rb" "tests/test_ex48.rb" 
+rake aborted!
+Command failed with status (1): [ruby -I"lib:tests" -I"/home/bimbim/.rvm/gems/ruby-2.1.2/gems/rake-10.3.2/lib" "/home/bimbim/.rvm/gems/ruby-2.1.2/gems/rake-10.3.2/lib/rake/rake_test_loader.rb" "tests/test_ex48.rb" ]
+
+Tasks: TOP => test
+(See full trace by running task with --trace)
